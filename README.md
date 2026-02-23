@@ -1,7 +1,8 @@
-# 🧠✨ REPOSITÓRIO OFICIAL -  ALGORITMOS E ESTRUTURA DE DADOS✨🧠
-### Instituto Federal do Espírito Santo – IFES  
-### 👨‍🏫 Prof.º Msc. Gustavo Rocha  
+# 🧠✨ REPOSITÓRIO OFICIAL -  ALGORITMOS E EST. DE DADOS✨🧠
+### IFES - Campus Nova Venécia - Bacharelado em Engenharia Civil  
+### 👨‍🏫 Prof.º Msc. Gustavo Rocha<BR>
 
+---
 
 ## 🎯 Finalidade deste Repositório
 
@@ -38,7 +39,7 @@ Ele serve como:
 ---
 
 ## 🗺️ Lembrem-se sempre:
-<b>Problema → Análise → Algoritmo → Código → Teste → Melhoria <\b>
+<b>Problema → Análise → Algoritmo → Código → Teste → Melhoria
 
 
     
